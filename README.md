@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Links
 
--   [Solution URL](https://your-solution-url.com)
+-   [Solution URL](https://www.frontendmentor.io/solutions/spa-using-react-typescript-styled-components-and-transition-group-I-IldmfSD5)
 -   [Live Site URL](https://mgalvizo.github.io/planets-fact-site/)
 
 ## My process
